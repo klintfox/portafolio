@@ -43,7 +43,8 @@
 
 
 ## DevOps
-- [DevOps Course](https://github.com/klintfox/course-devops-masterclass)
+
+- [DevOps Course Udemy](https://github.com/klintfox/course-devops-masterclass)
 
 ### Docker
 - [Docker Building Images](https://github.com/klintfox/docker-images)
@@ -51,12 +52,25 @@
 ### Kubernetes
 - [Kubernetes]
 
+### Jenkins
+- 
+
+### Ansible
+-
+
+### Terraform
+-
+
+## CLoud
+
 ### Aws Cloud
 - [AWS Lambda]
 
 ### Azure
 - [Azure Terraform Pipeline](https://github.com/klintfox/azure-devops-kubernetes-terraform-pipeline)
 
+### Google Cloud
+- 
 
 *** 
 
