@@ -24,9 +24,15 @@
 
 ### Java
 - [Java Course Arquitect](https://github.com/klintfox/course-java-arquitect)
-- [Java Spring Boot]
-- [Java Restful User Management](https://github.com/klintfox/api-user-managemenet)
+- [Java Course Spring Eureka Netflix](https://github.com/klintfox/course-spring-eureka-netflix)
+- [Java Course Spring Eureka Netflix Config](https://github.com/klintfox/course-spring-eureka-netflix-config)
 - [Java Soap Rest Employee](https://github.com/klintfox/api-soap-rest-employee)
+- [Java Spring Boot]
+
+### Microservices
+- [Java RESTful API for User Management](https://github.com/klintfox/api-user-managemenet)
+
+- [Message Queue Rabbitmq](https://github.com/klintfox/message-queue-rabbitmq)
 
 ## Mobile
 
@@ -34,17 +40,17 @@
 
 - [Kotlin]
 
+## Event Driven
 
-## Infraestructura
+
+## DevOps
+- [DevOps Course](https://github.com/klintfox/course-devops-masterclass)
 
 ### Docker
 - [Docker Building Images](https://github.com/klintfox/docker-images)
 
 ### Kubernetes
 - [Kubernetes]
-
-## DevOps
-- [DevOps Course](https://github.com/klintfox/course-devops-masterclass)
 
 ## Cloud
 
