@@ -2,7 +2,7 @@
 
 **Este es mi portafolio de proyectos de desarrollo de software. Aquí puedes encontrar mis proyectos organizados por categorías:**
 
-## Web
+## Frontend Development"
 
 ### React
 - [React App]
@@ -14,13 +14,10 @@
 - [Streamlit Course](https://github.com/klintfox/streamlit_course)
 
 
-## Backend
+## Backend Development"
 
 ### Python
 - [Python API Empleados](https://github.com/klintfox/api_employee_python)
-
-### Node.JS
-- [Node.js API]
 
 ### Java
 - [Java Course Arquitect](https://github.com/klintfox/course-java-arquitect)
@@ -28,6 +25,9 @@
 - [Java Course Spring Eureka Netflix Config](https://github.com/klintfox/course-spring-eureka-netflix-config)
 - [Java Soap Rest Employee](https://github.com/klintfox/api-soap-rest-employee)
 - [Java Spring Boot]
+
+### Node.JS
+- [Node.js API]
 
 ### Microservices
 - [Java RESTful API for User Management](https://github.com/klintfox/api-user-managemenet)
@@ -38,7 +38,7 @@
 
 ### Android
 
-- [Kotlin]
+- [Android App with Kotlin]
 
 ## Event Driven
 
