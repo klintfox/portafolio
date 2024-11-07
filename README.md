@@ -1,20 +1,42 @@
 # Proyectos de Klint F.
 
-Este es mi portafolio de proyectos de desarrollo de software. Aquí puedes encontrar mis proyectos organizados por categorías:
+**Este es mi portafolio de proyectos de desarrollo de software. Aquí puedes encontrar mis proyectos organizados por categorías:**
 
 ## Web
+
+### React
 - [React App]
+
+### Angular
 - [Angular App]
-- [Streamlit App](https://github.com/klintfox/streamlit-app) 
+
+### Streamlit
+	- [Streamlit App](https://github.com/klintfox/streamlit-app) 
 
 ## Backend
-- [Node.js API]
-- [Java Spring Boot]
+
+### Node.JS
+	- [Node.js API]
+
+### Java
+	- [Java Spring Boot]
 
 ## Infraestructura
-- [Docker Compose]
-- [Kubernetes]
+
+### Docker
+	- [Docker Compose]
+
+### Kubernetes
+	- [Kubernetes]
 
 ## Cloud
-- [AWS Lambda]
-- [Azure Functions]
+
+### Aws Cloud
+	- [AWS Lambda]
+
+### Azure
+	- [Azure Functions]
+
+*** 
+
+# Sobre Me: 
