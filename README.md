@@ -23,15 +23,13 @@
 - [Java Course Arquitect](https://github.com/klintfox/course-java-arquitect)
 - [Java Course Spring Eureka Netflix](https://github.com/klintfox/course-spring-eureka-netflix)
 - [Java Course Spring Eureka Netflix Config](https://github.com/klintfox/course-spring-eureka-netflix-config)
-- [Java Soap Rest Employee](https://github.com/klintfox/api-soap-rest-employee)
+- [Java RESTful API for User Management](https://github.com/klintfox/api-user-managemenet)
+- [API Soap Rest Employee](https://github.com/klintfox/api-soap-rest-employee)
+- [API Rest Employee MongoDb JPA](https://github.com/klintfox/api-rest-employee-mongodb-jpa)
 - [Java Spring Boot]
 
 ### Node.JS
 - [Rest Nestjs Example](https://github.com/klintfox/ws-rest-nestjs/tree/master)
-
-### Microservices
-- [Java RESTful API for User Management](https://github.com/klintfox/api-user-managemenet)
-
 - [Message Queue Rabbitmq](https://github.com/klintfox/message-queue-rabbitmq)
 
 ## Mobile
