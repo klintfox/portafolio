@@ -11,32 +11,32 @@
 - [Angular App]
 
 ### Streamlit
-	- [Streamlit App](https://github.com/klintfox/streamlit-app) 
+- [Streamlit App](https://github.com/klintfox/streamlit-app) 
 
 ## Backend
 
 ### Node.JS
-	- [Node.js API]
+- [Node.js API]
 
 ### Java
-	- [Java Spring Boot]
+- [Java Spring Boot]
 
 ## Infraestructura
 
 ### Docker
-	- [Docker Compose]
+- [Docker Compose]
 
 ### Kubernetes
-	- [Kubernetes]
+- [Kubernetes]
 
 ## Cloud
 
 ### Aws Cloud
-	- [AWS Lambda]
+- [AWS Lambda]
 
 ### Azure
-	- [Azure Functions]
+- [Azure Functions]
 
 *** 
 
-# Sobre Me: 
+## Sobre Me: 
