@@ -1,4 +1,4 @@
-# Proyectos de Klint F.
+# Portafolio de Klint F.
 
 **Este es mi portafolio de proyectos de desarrollo de software. Aquí puedes encontrar mis proyectos organizados por categorías:**
 
@@ -13,6 +13,7 @@
 ### Streamlit
 - [Streamlit App](https://github.com/klintfox/streamlit-app) 
 
+
 ## Backend
 
 ### Node.JS
@@ -20,6 +21,13 @@
 
 ### Java
 - [Java Spring Boot]
+
+## Mobile
+
+### Android
+
+- [Kotlin]
+
 
 ## Infraestructura
 
@@ -29,6 +37,7 @@
 ### Kubernetes
 - [Kubernetes]
 
+
 ## Cloud
 
 ### Aws Cloud
@@ -36,6 +45,7 @@
 
 ### Azure
 - [Azure Functions]
+
 
 *** 
 
