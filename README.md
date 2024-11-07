@@ -11,7 +11,7 @@
 - [Angular App]
 
 ### Streamlit
-- [Streamlit App](https://github.com/klintfox/streamlit-app) 
+- [Streamlit Course](https://github.com/klintfox/streamlit_course)
 
 
 ## Backend
