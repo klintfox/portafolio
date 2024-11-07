@@ -24,6 +24,7 @@
 
 ### Java
 - [Java Spring Boot]
+- [Java Restful User Management] (https://github.com/klintfox/api-user-managemenet)
 
 ## Mobile
 
