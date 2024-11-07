@@ -25,6 +25,7 @@
 ### Java
 - [Java Spring Boot]
 - [Java Restful User Management] (https://github.com/klintfox/api-user-managemenet)
+- [Java Soap Rest Employee] (https://github.com/klintfox/api-soap-rest-employee)
 
 ## Mobile
 
