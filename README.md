@@ -27,7 +27,7 @@
 - [Java Spring Boot]
 
 ### Node.JS
-- [Node.js API]
+- [Rest Nestjs Example](https://github.com/klintfox/ws-rest-nestjs/tree/master)
 
 ### Microservices
 - [Java RESTful API for User Management](https://github.com/klintfox/api-user-managemenet)
@@ -52,13 +52,11 @@
 ### Kubernetes
 - [Kubernetes]
 
-## Cloud
-
 ### Aws Cloud
 - [AWS Lambda]
 
 ### Azure
-- [Azure Functions]
+- [Azure Terraform Pipeline](https://github.com/klintfox/azure-devops-kubernetes-terraform-pipeline)
 
 
 *** 
