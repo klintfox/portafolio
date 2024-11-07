@@ -43,6 +43,8 @@
 ### Kubernetes
 - [Kubernetes]
 
+## DevOps
+- [DevOps Course](https://github.com/klintfox/course-devops-masterclass)
 
 ## Cloud
 
