@@ -17,15 +17,16 @@
 ## Backend
 
 ### Python
-- [Python API Empleados] (https://github.com/klintfox/api_employee_python)
+- [Python API Empleados](https://github.com/klintfox/api_employee_python)
 
 ### Node.JS
 - [Node.js API]
 
 ### Java
+- [Java Course Arquitect](https://github.com/klintfox/course-java-arquitect)
 - [Java Spring Boot]
-- [Java Restful User Management] (https://github.com/klintfox/api-user-managemenet)
-- [Java Soap Rest Employee] (https://github.com/klintfox/api-soap-rest-employee)
+- [Java Restful User Management](https://github.com/klintfox/api-user-managemenet)
+- [Java Soap Rest Employee](https://github.com/klintfox/api-soap-rest-employee)
 
 ## Mobile
 
