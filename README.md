@@ -39,11 +39,6 @@ Proyectos de aplicaciones móviles construidas principalmente con Android y Kotl
 - [Android App with Kotlin]
 - [Google Maps API]
 
-## SECURITY 
-- [Oauth]
-- [OpenAm](https://github.com/klintfox/forgerock-openam)
-
-
 ## **API DOCUMENTATION**
 
 ### 1 Swagger
@@ -181,3 +176,4 @@ Proyectos basados en la nube para el manejo de infraestructuras como servicio (I
 ## SECURITY
 
 - [ForgeRock OpenAM](https://github.com/klintfox/forgerock-openam)
+- [Oauth]
