@@ -1,15 +1,15 @@
-# Portafolio 
+# Portfolio
 
-**Este es mi portafolio de proyectos de desarrollo de software. Aquí puedes encontrar mis proyectos organizados por categorías:**
+**This is my software development portfolio. Here you can find my projects organized by categories:**
 
 ## **BACKEND DEVELOPMENT**
-Proyectos de desarrollo backend utilizando diferentes lenguajes de programación.
+Backend development projects using different programming languages.
 
 ### 1 Python
-- [Python API Empleados](https://github.com/klintfox/api_employee_python)
+- [Python API Employees](https://github.com/klintfox/api_employee_python)
 
 ### 2 Java
-- [Java Course Arquitect](https://github.com/klintfox/course-java-arquitect)
+- [Java Course Architecture](https://github.com/klintfox/course-java-arquitect)
 - [Java Course Spring Eureka Netflix](https://github.com/klintfox/course-spring-eureka-netflix)
 - [Java Course Spring Eureka Netflix Config](https://github.com/klintfox/course-spring-eureka-netflix-config)
 - [Java RESTful API for User Management](https://github.com/klintfox/api-user-managemenet)
@@ -17,24 +17,21 @@ Proyectos de desarrollo backend utilizando diferentes lenguajes de programación
 - [API Rest Employee MongoDb JPA](https://github.com/klintfox/api-rest-employee-mongodb-jpa)
 - [Java Spring Boot]
 
-#### 2.1 Mockito 
-
+#### 2.1 Mockito
 - [Mockito]
 
 #### 2.2 JUnit5
-
-- [TDD y DDD](https://github.com/klintfox/test-customer-order)
+- [TDD and DDD](https://github.com/klintfox/test-customer-order)
 
 ### 3 Node.JS
 - [Rest Nestjs Example](https://github.com/klintfox/ws-rest-nestjs/tree/master)
 - [Nodejs GraphQL Crud MongoDb](https://github.com/klintfox/nodejs-graphql-crud-mongodb)
 - [Message Queue Rabbitmq](https://github.com/klintfox/message-queue-rabbitmq)
 
-
 ## **MOBILE DEVELOPMENT**
 
 ### 1 Android
-Proyectos de aplicaciones móviles construidas principalmente con Android y Kotlin.
+Mobile application projects built primarily with Android and Kotlin.
 
 - [Android App with Kotlin]
 - [Google Maps API]
@@ -47,9 +44,8 @@ Proyectos de aplicaciones móviles construidas principalmente con Android y Kotl
 ### 2 Compodoc
 - [Compodoc]
 
-
 ## **FRONTEND DEVELOPMENT**
-Proyectos de desarrollo frontend utilizando tecnologías modernas y populares para la construcción de interfaces de usuario.
+Frontend development projects using modern and popular technologies for building user interfaces.
 
 ### 1 React
 - [React App]
@@ -60,109 +56,83 @@ Proyectos de desarrollo frontend utilizando tecnologías modernas y populares pa
 ### 3 Streamlit
 - [Streamlit]
 
-
 ## **DATABASE**
 
-### **Relacionales** 
-Las bases de datos relacionales organizan los datos en tablas y utilizan SQL (Structured Query Language) para gestionarlas.
+### **Relational**
+Relational databases organize data into tables and use SQL (Structured Query Language) to manage them.
 
 ### 1 MySQL: 
-
 - []
 
 ### 2 PostgreSQL: 
-
 - []
 
 ### 3 Microsoft SQL Server (MSSQL): 
-
 - []
 
 ### 4 Oracle Database: 
-
 - []
 
 ### 5 SQLite: 
-
 - []
 
-
-### **No Relaciones**
-Las bases de datos NoSQL están diseñadas para manejar grandes volúmenes de datos no estructurados, y no utilizan SQL como su lenguaje principal.
+### **NoSQL**
+NoSQL databases are designed to handle large volumes of unstructured data, and they do not use SQL as their main language.
 
 ### 1 MongoDb
-
 - []
 
 ### 2 ElasticSearch
-
 - []
 
-
-### **En la Nube**
-Las bases de datos en la nube ofrecen servicios gestionados de bases de datos, a menudo sin necesidad de administrar el hardware ni la infraestructura subyacente.
+### **Cloud**
+Cloud databases offer managed database services, often without needing to manage the underlying hardware or infrastructure.
 
 ### 1 Amazon RDS (Relational Database Service): 
-
 - []
 
 ### 2 Google Cloud SQL: 
-
 - []
 
 ### 3 Azure SQL Database: 
-
 - []
 
 ### 4 Firebase Realtime Database: 
-
 - []
 
-
-### **En Memoria**
-Estas bases de datos almacenan los datos directamente en la memoria RAM para proporcionar acceso extremadamente rápido.
+### **In-Memory**
+These databases store data directly in memory (RAM) to provide extremely fast access.
 
 ### 1 Redis
+- [Redis]
 
-- [Redis] 
-
-
-## **Mensajería**
+## **Messaging**
 
 ### RabbitMQ
-
 - [RabbitMQ]
 
 ### Nats Streaming
-
 - [Nats Streaming]
-
 
 ## **DEVOPS**
 
 ### Docker
-
 - [Docker Building Images](https://github.com/klintfox/docker-images)
 
 ### Kubernetes
-
 - [Kubernetes]
 
 ### Jenkins
-
 - [Jenkins]
 
 ### Ansible
-
 - [Ansible]
 
 ### Terraform
-
 - [Terraform]
 
-
 ## **CLOUD**
-Proyectos basados en la nube para el manejo de infraestructuras como servicio (IaaS) y funciones como servicio (FaaS).
+Cloud-based projects for managing infrastructure as a service (IaaS) and functions as a service (FaaS).
 
 ### Aws Cloud
 - [AWS Lambda]
